@@ -1,0 +1,8 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Print" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+</keymap>
