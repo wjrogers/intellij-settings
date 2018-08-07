@@ -3,34 +3,130 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/Batch.cs" timestamp="1533669062116">
+        <mark key="'" line="31" column="30" />
+        <mark key="[" line="39" column="54" />
+        <mark key="]" line="31" column="54" />
+        <mark key="." line="39" column="58" />
+        <mark key="^" line="31" column="54" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/BatchParameters.cs" timestamp="1533668983020">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/CommandLineParameters.cs" timestamp="1533669281034">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Job.cs" timestamp="1533669248991">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="C:/Work/XO.Core/XO.Core/MutexUtil.cs" timestamp="1533665801928">
         <mark key="^" line="2" column="5" />
       </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/DockerRunParameters.cs" timestamp="1533669495323">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/DockerRun.cs" timestamp="1533669514516">
+        <mark key="'" line="533" column="0" />
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="11" />
+        <mark key="^" line="531" column="36" />
+        <mark key="." line="26" column="11" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/CommandLine.cs" timestamp="1533669313044">
+        <mark key="'" line="33" column="69" />
+        <mark key="[" line="33" column="59" />
+        <mark key="]" line="33" column="69" />
+        <mark key="." line="33" column="69" />
+        <mark key="^" line="33" column="69" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="39" column="59" filename="C:/Work/Sassy/XO.Sassy.Platform/Jobs/Batch.cs" />
+      <jump line="31" column="30" filename="C:/Work/Sassy/XO.Sassy.Platform/Jobs/Batch.cs" />
+      <jump line="33" column="69" filename="C:/Work/Sassy/XO.Sassy.Platform/Jobs/CommandLine.cs" />
+      <jump line="6" column="0" filename="C:/Work/Sassy/XO.Sassy.Platform/Jobs/DockerRunParameters.cs" />
+      <jump line="533" column="0" filename="C:/Work/Sassy/XO.Sassy.Platform/Jobs/DockerRun.cs" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlNlY3VyaXR5LkFjY2Vzc0NvbnRyb2w7Cg==</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICBzZWFsZWQgY2xhc3MgUGFyYW1ldGVycwogICAgICAgIHsKICAgICAgICAgICAgcHVibGljIFBhcmFtZXRlcnMoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aGlzLkVudmlyb25tZW50ID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBzdHJpbmc+KCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyBzdHJpbmcgRmlsZU5hbWUgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICBwdWJsaWMgc3RyaW5nIFdvcmtpbmdEaXJlY3RvcnkgeyBnZXQ7IHNldDsgfQoKICAgICAgICAgICAgcHVibGljIEpUb2tlbiBBcmd1bWVudHMgeyBnZXQ7IHNldDsgfQoKICAgICAgICAgICAgcHVibGljIERpY3Rpb25hcnk8c3RyaW5nLCBzdHJpbmc+IEVudmlyb25tZW50IHsgZ2V0OyBzZXQ7IH0KICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlNlY3VyaXR5LkFjY2Vzc0NvbnRyb2w7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cGFydGlhbCA=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">cGFydGlhbCA=</text>
+      </register>
+      <register name="/" type="4">
+        <text>Parameters</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBbRGVmYXVsdFByb3BlcnR5KG5hbWVvZihQYXJhbWV0ZXJzLkRlc2NyaXB0aW9uKSldCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBwYXJ0aWFsIGNsYXNzIERvY2tlclJ1bgogICAgewo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWFsZWQgY2xhc3MgUGFyYW1ldGVycwogICAgICAgIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWFsZWQgY2xhc3MgUGFyYW1ldGVycwogICAgICAgIHsKICAgICAgICAgICAgcHVibGljIFBhcmFtZXRlcnMoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aGlzLkVudmlyb25tZW50ID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBzdHJpbmc+KCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyBzdHJpbmcgRmlsZU5hbWUgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICBwdWJsaWMgc3RyaW5nIFdvcmtpbmdEaXJlY3RvcnkgeyBnZXQ7IHNldDsgfQoKICAgICAgICAgICAgcHVibGljIEpUb2tlbiBBcmd1bWVudHMgeyBnZXQ7IHNldDsgfQoKICAgICAgICAgICAgcHVibGljIERpY3Rpb25hcnk8c3RyaW5nLCBzdHJpbmc+IEVudmlyb25tZW50IHsgZ2V0OyBzZXQ7IH0KICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAgICAgW0RlZmF1bHRQcm9wZXJ0eShuYW1lb2YoUGFyYW1ldGVycy5EZXNjcmlwdGlvbikpXQogICAgICAgIHB1YmxpYyBzZWFsZWQgY2xhc3MgUGFyYW1ldGVycwogICAgICAgIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>Parameters</last-search>
+      <last-offset />
+      <last-pattern>Parameters</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>Parameters</entry>
+      </history-search>
       <history-cmd>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
