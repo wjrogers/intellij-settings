@@ -2,14 +2,35 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="C:/Work/XO.Core/XO.Core/MutexUtil.cs" timestamp="1533665801928">
+        <mark key="^" line="2" column="5" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlNlY3VyaXR5LkFjY2Vzc0NvbnRyb2w7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlNlY3VyaXR5LkFjY2Vzc0NvbnRyb2w7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
