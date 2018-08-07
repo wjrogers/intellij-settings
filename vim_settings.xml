@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/Batch.cs" timestamp="1533669062116">
-        <mark key="'" line="31" column="30" />
-        <mark key="[" line="39" column="54" />
-        <mark key="]" line="31" column="54" />
-        <mark key="." line="39" column="58" />
-        <mark key="^" line="31" column="54" />
-      </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/BatchParameters.cs" timestamp="1533668983020">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="17" />
@@ -33,13 +26,6 @@
         <mark key="]" line="90" column="37" />
         <mark key="^" line="90" column="37" />
         <mark key="." line="90" column="37" />
-      </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/DockerRun.cs" timestamp="1533669514516">
-        <mark key="'" line="533" column="0" />
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="11" />
-        <mark key="^" line="531" column="36" />
-        <mark key="." line="26" column="11" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Setups/Git.cs" timestamp="1533671695393">
         <mark key="[" line="160" column="28" />
@@ -65,18 +51,11 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/CommandLine.cs" timestamp="1533669313044">
-        <mark key="'" line="33" column="69" />
-        <mark key="[" line="33" column="59" />
-        <mark key="]" line="33" column="69" />
-        <mark key="." line="33" column="69" />
-        <mark key="^" line="33" column="69" />
-      </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Management/JobManager.cs" timestamp="1533676292057">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="12" />
-        <mark key="." line="107" column="12" />
-        <mark key="^" line="107" column="75" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="75" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Teardowns/AbstractToDatabase.cs" timestamp="1533671765278">
         <mark key="'" line="521" column="36" />
@@ -92,15 +71,17 @@
         <mark key="^" line="301" column="39" />
         <mark key="." line="301" column="39" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/DockerRunParameters.cs" timestamp="1533671591614">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
-        <mark key="^" line="7" column="52" />
+      <file name="C:/Work/Sassy/XO.Sassy.Worker/Logging/OutputLoggerExtensions.cs" timestamp="1533677759737">
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="51" />
+        <mark key="^" line="9" column="50" />
+        <mark key="." line="9" column="51" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Worker/Logging/LoggerExtensions.cs" timestamp="1533676545091">
-        <mark key="'" line="47" column="36" />
+      <file name="C:/Work/Sassy/XO.Sassy.Worker/Logging/LoggerExtensions.cs" timestamp="1533677465966">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="18" column="37" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Teardowns/AbstractToDatabaseParameters.cs" timestamp="1533671953048">
         <mark key="[" line="6" column="11" />
@@ -114,12 +95,6 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Master/Dispatcher.cs" timestamp="1533676513395">
-        <mark key="[" line="265" column="104" />
-        <mark key="]" line="266" column="30" />
-        <mark key="^" line="266" column="30" />
-        <mark key="." line="266" column="30" />
-      </file>
       <file name="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Email.cs" timestamp="1533672428723">
         <mark key="[" line="94" column="28" />
         <mark key="]" line="94" column="32" />
@@ -130,6 +105,12 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/LoggerExtensions.cs" timestamp="1533677776403">
+        <mark key="[" line="7" column="51" />
+        <mark key="]" line="7" column="53" />
+        <mark key="^" line="7" column="53" />
+        <mark key="." line="7" column="53" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Worker/XO.Sassy.Worker.csproj" timestamp="1533676456358">
         <mark key="[" line="57" column="0" />
@@ -166,49 +147,49 @@
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmluZDxYTy5TYXNzeS5TYXMuSVNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkuVG88WE8uU2Fzc3kuU2FzLkltcGxlbWVudGF0aW9uLlNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkKICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEJlZ2luIGEgbG9nZ2luZyBzY29wZSBhc3NvY2lhdGVkIHdpdGggYSBwYXJ0aWN1bGFyIGpvYiBhdHRlbXB0LgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJsb2dnZXIiPnRoZSBsb2dnZXI8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYXR0ZW1wdCI+dGhlIGF0dGVtcHQ8L3BhcmFtPgogICAgICAgIHB1YmxpYyBzdGF0aWMgSURpc3Bvc2FibGUgQmVnaW5Kb2JBdHRlbXB0U2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgaW50IGF0dGVtcHQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbG9nZ2VyLkJlZ2luU2NvcGUobmV3IERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+KDEpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFtTYXNzeS5MT0dfUFJPUEVSVFlfSk9CX0FUVEVNUFRdID0gYXR0ZW1wdCwKICAgICAgICAgICAgfSk7CiAgICAgICAgfQoKICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEJlZ2luIGEgbG9nZ2luZyBzY29wZSBhc3NvY2lhdGVkIHdpdGggYSBwYXJ0aWN1bGFyIGpvYi4KICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0ibG9nZ2VyIj50aGUgbG9nZ2VyPC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImlkIj50aGUgam9iJ3MgZGF0YWJhc2UgaWQ8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYmVhbnN0YWxrX2lkIj50aGUgam9iJ3MgYmVhbnN0YWxrIGlkPC9wYXJhbT4KICAgICAgICBwdWJsaWMgc3RhdGljIElEaXNwb3NhYmxlIEJlZ2luSm9iU2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgR3VpZCBpZCwgdWxvbmc/IGJlYW5zdGFsa19pZCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBsb2dnZXIuQmVnaW5TY29wZShuZXcgRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4oMikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgW1Nhc3N5LkxPR19QUk9QRVJUWV9CRUFOU1RBTEtfSURdID0gYmVhbnN0YWxrX2lkLAogICAgICAgICAgICAgICAgW1Nhc3N5LkxPR19QUk9QRVJUWV9KT0JfSURdID0gaWQsCiAgICAgICAgICAgIH0pOwogICAgICAgIH0KCiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBCZWdpbiBhIGxvZ2dpbmcgc2NvcGUgYXNzb2NpYXRlZCB3aXRoIGEgcGFydGljdWxhciBqb2IuCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImxvZ2dlciI+dGhlIGxvZ2dlcjwvcGFyYW0+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJqb2IiPnRoZSBtZXRhZGF0YSBmb3IgdGhlIGFzc29jaWF0ZWQgam9iPC9wYXJhbT4KICAgICAgICBwdWJsaWMgc3RhdGljIElEaXNwb3NhYmxlIEJlZ2luSm9iU2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgSm9iTWV0YWRhdGEgam9iKQogICAgICAgICAgICA9PiBCZWdpbkpvYlNjb3BlKGxvZ2dlciwgam9iLklkLCBqb2IuQmVhbnN0YWxrSWQpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2luZyAoTG9nZ2VyLkJlZ2luSm9iU2NvcGUoam9iKSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDxzZWVhbHNvIGNyZWY9IklMb2ciLz4u</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSU9NQ29tbW9uSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJT01Db21tb25JbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTT01hbkludGVyb3AiPgogICAgICA8SGludFBhdGg+Li5cU0FTT01hbkludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgogICAgPFJlZmVyZW5jZSBJbmNsdWRlPSJTQVNPTUlJbnRlcm9wIj4KICAgICAgPEhpbnRQYXRoPi4uXFNBU09NSUludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>LogWarning</text>
+        <text encoding="base64">IDxzZWVhbHNvIGNyZWY9IklMb2ciLz4u</text>
       </register>
       <register name="/" type="4">
         <text>DockerRun</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxDb21waWxlIFJlbW92ZT0iU2FzXFNhc1dvcmtzcGFjZUZhY3RvcnkuY3MiIC8+Cg==</text>
+        <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyBDb252ZW5pZW5jZSBtZXRob2RzIGZvciA8c2VlYWxzbyBjcmVmPSJJTG9nIi8+LgogICAgLy8vIDwvc3VtbWFyeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2luZyAoTG9nZ2VyLkJlZ2luSm9iU2NvcGUoam9iKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU3lzdGVtLlRyYW5zYWN0aW9ucyIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgWE8uU2Fzc3kuTG9nZ2luZzsK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEJlZ2luIGEgbG9nZ2luZyBzY29wZSBhc3NvY2lhdGVkIHdpdGggYSBwYXJ0aWN1bGFyIGpvYiBhdHRlbXB0LgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJsb2dnZXIiPnRoZSBsb2dnZXI8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYXR0ZW1wdCI+dGhlIGF0dGVtcHQ8L3BhcmFtPgogICAgICAgIHB1YmxpYyBzdGF0aWMgSURpc3Bvc2FibGUgQmVnaW5Kb2JBdHRlbXB0U2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgaW50IGF0dGVtcHQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbG9nZ2VyLkJlZ2luU2NvcGUobmV3IERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+KDEpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFtTYXNzeS5MT0dfUFJPUEVSVFlfSk9CX0FUVEVNUFRdID0gYXR0ZW1wdCwKICAgICAgICAgICAgfSk7CiAgICAgICAgfQoKICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEJlZ2luIGEgbG9nZ2luZyBzY29wZSBhc3NvY2lhdGVkIHdpdGggYSBwYXJ0aWN1bGFyIGpvYi4KICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0ibG9nZ2VyIj50aGUgbG9nZ2VyPC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImlkIj50aGUgam9iJ3MgZGF0YWJhc2UgaWQ8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYmVhbnN0YWxrX2lkIj50aGUgam9iJ3MgYmVhbnN0YWxrIGlkPC9wYXJhbT4KICAgICAgICBwdWJsaWMgc3RhdGljIElEaXNwb3NhYmxlIEJlZ2luSm9iU2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgR3VpZCBpZCwgdWxvbmc/IGJlYW5zdGFsa19pZCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBsb2dnZXIuQmVnaW5TY29wZShuZXcgRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4oMikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgW1Nhc3N5LkxPR19QUk9QRVJUWV9CRUFOU1RBTEtfSURdID0gYmVhbnN0YWxrX2lkLAogICAgICAgICAgICAgICAgW1Nhc3N5LkxPR19QUk9QRVJUWV9KT0JfSURdID0gaWQsCiAgICAgICAgICAgIH0pOwogICAgICAgIH0KCiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBCZWdpbiBhIGxvZ2dpbmcgc2NvcGUgYXNzb2NpYXRlZCB3aXRoIGEgcGFydGljdWxhciBqb2IuCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImxvZ2dlciI+dGhlIGxvZ2dlcjwvcGFyYW0+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJqb2IiPnRoZSBtZXRhZGF0YSBmb3IgdGhlIGFzc29jaWF0ZWQgam9iPC9wYXJhbT4KICAgICAgICBwdWJsaWMgc3RhdGljIElEaXNwb3NhYmxlIEJlZ2luSm9iU2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgSm9iTWV0YWRhdGEgam9iKQogICAgICAgICAgICA9PiBCZWdpbkpvYlNjb3BlKGxvZ2dlciwgam9iLklkLCBqb2IuQmVhbnN0YWxrSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiNpZiBORVRGVUxMCiNlbmRpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2luZyAoTG9nZ2VyLkJlZ2luSm9iU2NvcGUoam9iKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmluZDxYTy5TYXNzeS5TYXMuSVNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkuVG88WE8uU2Fzc3kuU2FzLkltcGxlbWVudGF0aW9uLlNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkKICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
+        <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU3lzdGVtLlRyYW5zYWN0aW9ucyIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKExvZ2dlci5CZWdpbkpvYlNjb3BlKG1ldGFkYXRhKSkK</text>
+        <text encoding="base64">dXNpbmcgWE8uU2Fzc3kuTG9nZ2luZzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CiNpZiBORVRGVUxMCiNlbmRpZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzaW5nIChMb2dnZXIuQmVnaW5Kb2JTY29wZShqb2IpKQogICAgICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmluZDxYTy5TYXNzeS5TYXMuSVNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkuVG88WE8uU2Fzc3kuU2FzLkltcGxlbWVudGF0aW9uLlNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkKICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLkVycm9yKCQiRGVwZW5kZW5jeSB7ZGVwZW5kZW5jeV9pZH0gZG9lcyBub3QgZXhpc3QhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKExvZ2dlci5CZWdpbkpvYlNjb3BlKG1ldGFkYXRhKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
