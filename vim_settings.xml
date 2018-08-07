@@ -34,8 +34,57 @@
         <mark key="^" line="90" column="37" />
         <mark key="." line="90" column="37" />
       </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/DockerRun.cs" timestamp="1533669514516">
+        <mark key="'" line="533" column="0" />
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="11" />
+        <mark key="^" line="531" column="36" />
+        <mark key="." line="26" column="11" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Setups/Git.cs" timestamp="1533671695393">
+        <mark key="[" line="160" column="28" />
+        <mark key="]" line="160" column="30" />
+        <mark key="^" line="160" column="30" />
+        <mark key="." line="160" column="30" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" timestamp="1533676375880">
+        <mark key="[" line="106" column="57" />
+        <mark key="]" line="107" column="19" />
+        <mark key="." line="107" column="19" />
+        <mark key="^" line="107" column="19" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/SasWorkspaceParameters.cs" timestamp="1533671629104">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Worker/Sas/SasLoggerExtensions.cs" timestamp="1533675599682">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="31" />
+        <mark key="." line="39" column="31" />
+        <mark key="^" line="39" column="31" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/CommandLine.cs" timestamp="1533669313044">
+        <mark key="'" line="33" column="69" />
+        <mark key="[" line="33" column="59" />
+        <mark key="]" line="33" column="69" />
+        <mark key="." line="33" column="69" />
+        <mark key="^" line="33" column="69" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Management/JobManager.cs" timestamp="1533676292057">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="12" />
+        <mark key="." line="107" column="12" />
+        <mark key="^" line="107" column="75" />
+      </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Teardowns/AbstractToDatabase.cs" timestamp="1533671765278">
         <mark key="'" line="521" column="36" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Module.cs" timestamp="1533676317138">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/SasWorkspace.cs" timestamp="1533670857908">
         <mark key="[" line="301" column="28" />
@@ -50,12 +99,8 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/DockerRun.cs" timestamp="1533669514516">
-        <mark key="'" line="533" column="0" />
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="11" />
-        <mark key="^" line="531" column="36" />
-        <mark key="." line="26" column="11" />
+      <file name="C:/Work/Sassy/XO.Sassy.Worker/Logging/LoggerExtensions.cs" timestamp="1533676545091">
+        <mark key="'" line="47" column="36" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Teardowns/AbstractToDatabaseParameters.cs" timestamp="1533671953048">
         <mark key="[" line="6" column="11" />
@@ -63,11 +108,17 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Setups/Git.cs" timestamp="1533671695393">
-        <mark key="[" line="160" column="28" />
-        <mark key="]" line="160" column="30" />
-        <mark key="^" line="160" column="30" />
-        <mark key="." line="160" column="30" />
+      <file name="C:/Work/Sassy/XO.Sassy.Worker/Logging/SasLoggerExtensions.cs" timestamp="1533675784469">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="13" column="25" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Master/Dispatcher.cs" timestamp="1533676513395">
+        <mark key="[" line="265" column="104" />
+        <mark key="]" line="266" column="30" />
+        <mark key="^" line="266" column="30" />
+        <mark key="." line="266" column="30" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Email.cs" timestamp="1533672428723">
         <mark key="[" line="94" column="28" />
@@ -80,17 +131,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/SasWorkspaceParameters.cs" timestamp="1533671629104">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="7" column="40" />
-        <mark key="." line="7" column="40" />
-        <mark key="^" line="7" column="40" />
-      </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Worker/XO.Sassy.Worker.csproj" timestamp="1533674729573">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="51" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="3" />
+      <file name="C:/Work/Sassy/XO.Sassy.Worker/XO.Sassy.Worker.csproj" timestamp="1533676456358">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="47" />
+        <mark key="^" line="30" column="43" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Teardowns/CsvToDatabase.cs" timestamp="1533671838981">
         <mark key="[" line="46" column="21" />
@@ -98,18 +143,10 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/CommandLine.cs" timestamp="1533669313044">
-        <mark key="'" line="33" column="69" />
-        <mark key="[" line="33" column="59" />
-        <mark key="]" line="33" column="69" />
-        <mark key="." line="33" column="69" />
-        <mark key="^" line="33" column="69" />
-      </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/XO.Sassy.Platform.csproj" timestamp="1533674706903">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="43" />
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/XO.Sassy.Platform.csproj" timestamp="1533676448639">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Teardowns/SasToDatabaseParameters.cs" timestamp="1533672033574">
         <mark key="[" line="2" column="43" />
@@ -125,49 +162,53 @@
       <jump line="533" column="0" filename="C:/Work/Sassy/XO.Sassy.Platform/Jobs/DockerRun.cs" />
       <jump line="9" column="0" filename="C:/Work/Sassy/XO.Sassy.Platform/Jobs/SasWorkspaceParameters.cs" />
       <jump line="522" column="36" filename="C:/Work/Sassy/XO.Sassy.Platform/Teardowns/AbstractToDatabase.cs" />
+      <jump line="47" column="36" filename="C:/Work/Sassy/XO.Sassy.Worker/Logging/LoggerExtensions.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFsZWQgY2xhc3MgUGFyYW1ldGVycwogICAgICAgIHsKICAgICAgICAgICAgcHVibGljIFBhcmFtZXRlcnMoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aGlzLkVudmlyb25tZW50ID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBzdHJpbmc+KCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyBzdHJpbmcgRmlsZU5hbWUgeyBnZXQ7IHNldDsgfQogICAgICAgICAgICBwdWJsaWMgc3RyaW5nIFdvcmtpbmdEaXJlY3RvcnkgeyBnZXQ7IHNldDsgfQoKICAgICAgICAgICAgcHVibGljIEpUb2tlbiBBcmd1bWVudHMgeyBnZXQ7IHNldDsgfQoKICAgICAgICAgICAgcHVibGljIERpY3Rpb25hcnk8c3RyaW5nLCBzdHJpbmc+IEVudmlyb25tZW50IHsgZ2V0OyBzZXQ7IH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmluZDxYTy5TYXNzeS5TYXMuSVNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkuVG88WE8uU2Fzc3kuU2FzLkltcGxlbWVudGF0aW9uLlNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkKICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxDb21waWxlIFJlbW92ZT0iVGVhcmRvd25zXFNhc1RvRGF0YWJhc2UuY3MiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2luZyAoTG9nZ2VyLkJlZ2luSm9iU2NvcGUoam9iKSkK</text>
+      </register>
+      <register name="b" type="2">
+        <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSU9NQ29tbW9uSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJT01Db21tb25JbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTT01hbkludGVyb3AiPgogICAgICA8SGludFBhdGg+Li5cU0FTT01hbkludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgogICAgPFJlZmVyZW5jZSBJbmNsdWRlPSJTQVNPTUlJbnRlcm9wIj4KICAgICAgPEhpbnRQYXRoPi4uXFNBU09NSUludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>AbstractToDatabase.</text>
+        <text>LogWarning</text>
       </register>
       <register name="/" type="4">
         <text>DockerRun</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxSb290TmFtZXNwYWNlPlhPLlNhc3N5PC9Sb290TmFtZXNwYWNlPgo=</text>
+        <text encoding="base64">ICAgIDxDb21waWxlIFJlbW92ZT0iU2FzXFNhc1dvcmtzcGFjZUZhY3RvcnkuY3MiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxDb21waWxlIFJlbW92ZT0iVGVhcmRvd25zXFNhc1RvRGF0YWJhc2UuY3MiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2luZyAoTG9nZ2VyLkJlZ2luSm9iU2NvcGUoam9iKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxDb21waWxlIFJlbW92ZT0iSm9ic1xTYXNXb3Jrc3BhY2UuY3MiIC8+Cg==</text>
+        <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU3lzdGVtLlRyYW5zYWN0aW9ucyIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxDb21waWxlIFJlbW92ZT0iU2FzXFNhc1dvcmtzcGFjZS5jcyIgLz4K</text>
+        <text encoding="base64">dXNpbmcgWE8uU2Fzc3kuTG9nZ2luZzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgWE8uU2Fzc3kuU2FzOwo=</text>
+        <text encoding="base64">CiNpZiBORVRGVUxMCiNlbmRpZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmluZDxYTy5TYXNzeS5TYXMuSVNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkuVG88WE8uU2Fzc3kuU2FzLkltcGxlbWVudGF0aW9uLlNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkKICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBwYXJ0aWFsIGNsYXNzIERvY2tlclJ1bgogICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNpbmcgKExvZ2dlci5CZWdpbkpvYlNjb3BlKG1ldGFkYXRhKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzaW5nIChMb2dnZXIuQmVnaW5Kb2JTY29wZShqb2IpKQogICAgICAgICAgICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFsZWQgY2xhc3MgUGFyYW1ldGVycwogICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLkVycm9yKCQiRGVwZW5kZW5jeSB7ZGVwZW5kZW5jeV9pZH0gZG9lcyBub3QgZXhpc3QhIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -201,6 +242,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
