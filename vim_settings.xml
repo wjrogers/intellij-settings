@@ -21,11 +21,17 @@
         <mark key="." line="6" column="60" />
         <mark key="^" line="6" column="60" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Slack.cs" timestamp="1533672471202">
-        <mark key="[" line="90" column="28" />
-        <mark key="]" line="90" column="37" />
-        <mark key="^" line="90" column="37" />
-        <mark key="." line="90" column="37" />
+      <file name="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Slack.cs" timestamp="1533743550698">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="16" />
+        <mark key="^" line="38" column="16" />
+        <mark key="." line="38" column="16" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Notifications/SlackParameters.cs" timestamp="1533743369118">
+        <mark key="[" line="4" column="39" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Notifications/EmailParameters.cs" timestamp="1533743359677">
+        <mark key="[" line="5" column="39" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Setups/Git.cs" timestamp="1533671695393">
         <mark key="[" line="160" column="28" />
@@ -38,6 +44,12 @@
         <mark key="]" line="107" column="19" />
         <mark key="." line="107" column="19" />
         <mark key="^" line="107" column="19" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Notifications/ParameterBase.cs" timestamp="1533743342824">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/SasWorkspaceParameters.cs" timestamp="1533671629104">
         <mark key="[" line="6" column="1" />
@@ -98,11 +110,12 @@
         <mark key="." line="17" column="15" />
         <mark key="^" line="13" column="25" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Email.cs" timestamp="1533672428723">
-        <mark key="[" line="94" column="28" />
-        <mark key="]" line="94" column="32" />
-        <mark key="^" line="94" column="32" />
-        <mark key="." line="94" column="32" />
+      <file name="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Email.cs" timestamp="1533743543982">
+        <mark key="'" line="24" column="24" />
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="35" column="27" />
+        <mark key="^" line="35" column="26" />
+        <mark key="." line="35" column="27" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Master/XO.Sassy.Master.csproj" timestamp="1533678289301">
         <mark key="[" line="7" column="0" />
@@ -132,6 +145,12 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
       </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Notifications/NotificationParameterBase.cs" timestamp="1533743413632">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="51" />
+        <mark key="^" line="10" column="51" />
+        <mark key="." line="10" column="51" />
+      </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/XO.Sassy.Platform.csproj" timestamp="1533678285292">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="43" />
@@ -152,19 +171,20 @@
       <jump line="9" column="0" filename="C:/Work/Sassy/XO.Sassy.Platform/Jobs/SasWorkspaceParameters.cs" />
       <jump line="522" column="36" filename="C:/Work/Sassy/XO.Sassy.Platform/Teardowns/AbstractToDatabase.cs" />
       <jump line="47" column="36" filename="C:/Work/Sassy/XO.Sassy.Worker/Logging/LoggerExtensions.cs" />
+      <jump line="24" column="24" filename="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Email.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEJlZ2luIGEgbG9nZ2luZyBzY29wZSBhc3NvY2lhdGVkIHdpdGggYSBwYXJ0aWN1bGFyIGpvYiBhdHRlbXB0LgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJsb2dnZXIiPnRoZSBsb2dnZXI8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYXR0ZW1wdCI+dGhlIGF0dGVtcHQ8L3BhcmFtPgogICAgICAgIHB1YmxpYyBzdGF0aWMgSURpc3Bvc2FibGUgQmVnaW5Kb2JBdHRlbXB0U2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgaW50IGF0dGVtcHQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbG9nZ2VyLkJlZ2luU2NvcGUobmV3IERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+KDEpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFtTYXNzeS5MT0dfUFJPUEVSVFlfSk9CX0FUVEVNUFRdID0gYXR0ZW1wdCwKICAgICAgICAgICAgfSk7CiAgICAgICAgfQoKICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEJlZ2luIGEgbG9nZ2luZyBzY29wZSBhc3NvY2lhdGVkIHdpdGggYSBwYXJ0aWN1bGFyIGpvYi4KICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0ibG9nZ2VyIj50aGUgbG9nZ2VyPC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImlkIj50aGUgam9iJ3MgZGF0YWJhc2UgaWQ8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYmVhbnN0YWxrX2lkIj50aGUgam9iJ3MgYmVhbnN0YWxrIGlkPC9wYXJhbT4KICAgICAgICBwdWJsaWMgc3RhdGljIElEaXNwb3NhYmxlIEJlZ2luSm9iU2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgR3VpZCBpZCwgdWxvbmc/IGJlYW5zdGFsa19pZCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBsb2dnZXIuQmVnaW5TY29wZShuZXcgRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4oMikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgW1Nhc3N5LkxPR19QUk9QRVJUWV9CRUFOU1RBTEtfSURdID0gYmVhbnN0YWxrX2lkLAogICAgICAgICAgICAgICAgW1Nhc3N5LkxPR19QUk9QRVJUWV9KT0JfSURdID0gaWQsCiAgICAgICAgICAgIH0pOwogICAgICAgIH0KCiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBCZWdpbiBhIGxvZ2dpbmcgc2NvcGUgYXNzb2NpYXRlZCB3aXRoIGEgcGFydGljdWxhciBqb2IuCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImxvZ2dlciI+dGhlIGxvZ2dlcjwvcGFyYW0+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJqb2IiPnRoZSBtZXRhZGF0YSBmb3IgdGhlIGFzc29jaWF0ZWQgam9iPC9wYXJhbT4KICAgICAgICBwdWJsaWMgc3RhdGljIElEaXNwb3NhYmxlIEJlZ2luSm9iU2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgSm9iTWV0YWRhdGEgam9iKQogICAgICAgICAgICA9PiBCZWdpbkpvYlNjb3BlKGxvZ2dlciwgam9iLklkLCBqb2IuQmVhbnN0YWxrSWQpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmluZDxJSm9iTWFuYWdlcj4oKS5UbzxKb2JNYW5hZ2VyPigpLkluU2luZ2xldG9uU2NvcGUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Parameters</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSU9NQ29tbW9uSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJT01Db21tb25JbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTT01hbkludGVyb3AiPgogICAgICA8SGludFBhdGg+Li5cU0FTT01hbkludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgogICAgPFJlZmVyZW5jZSBJbmNsdWRlPSJTQVNPTUlJbnRlcm9wIj4KICAgICAgPEhpbnRQYXRoPi4uXFNBU09NSUludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDxzZWVhbHNvIGNyZWY9IklMb2ciLz4u</text>
+        <text>Parameters</text>
       </register>
       <register name="/" type="4">
         <text>DockerRun</text>
@@ -200,7 +220,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQmluZDxYTy5TYXNzeS5TYXMuSVNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkuVG88WE8uU2Fzc3kuU2FzLkltcGxlbWVudGF0aW9uLlNhc1dvcmtzcGFjZUZhY3Rvcnk+KCkKICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -216,8 +236,8 @@
         <entry>DockerRun</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
