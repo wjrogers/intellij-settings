@@ -21,11 +21,12 @@
         <mark key="." line="6" column="60" />
         <mark key="^" line="6" column="60" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" timestamp="1533865306483">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="52" />
-        <mark key="^" line="5" column="52" />
-        <mark key="." line="5" column="52" />
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" timestamp="1533876740699">
+        <mark key="'" line="48" column="20" />
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="53" column="23" />
+        <mark key="." line="53" column="23" />
+        <mark key="^" line="53" column="23" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Slack.cs" timestamp="1533743550698">
         <mark key="[" line="38" column="12" />
@@ -91,6 +92,9 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Implementation/ServiceThread.cs" timestamp="1533875964816">
+        <mark key="'" line="140" column="34" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/SasWorkspace.cs" timestamp="1533670857908">
         <mark key="[" line="301" column="28" />
@@ -192,19 +196,22 @@
       <jump line="47" column="36" filename="C:/Work/Sassy/XO.Sassy.Worker/Logging/LoggerExtensions.cs" />
       <jump line="24" column="24" filename="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Email.cs" />
       <jump line="48" column="51" filename="C:/Work/XO.Core/XO.Logging/LogSystem.cs" />
+      <jump line="140" column="34" filename="C:/Work/Sassy/XO.Sassy.Platform/Implementation/ServiceThread.cs" />
+      <jump line="45" column="20" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" />
+      <jump line="8" column="0" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEJlZ2luIGEgbG9nZ2luZyBzY29wZSBhc3NvY2lhdGVkIHdpdGggYSBwYXJ0aWN1bGFyIGpvYiBhdHRlbXB0LgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJsb2dnZXIiPnRoZSBsb2dnZXI8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYXR0ZW1wdCI+dGhlIGF0dGVtcHQ8L3BhcmFtPgogICAgICAgIHB1YmxpYyBzdGF0aWMgSURpc3Bvc2FibGUgQmVnaW5Kb2JBdHRlbXB0U2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgaW50IGF0dGVtcHQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbG9nZ2VyLkJlZ2luU2NvcGUobmV3IERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+KDEpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFtTYXNzeS5MT0dfUFJPUEVSVFlfSk9CX0FUVEVNUFRdID0gYXR0ZW1wdCwKICAgICAgICAgICAgfSk7CiAgICAgICAgfQoKICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEJlZ2luIGEgbG9nZ2luZyBzY29wZSBhc3NvY2lhdGVkIHdpdGggYSBwYXJ0aWN1bGFyIGpvYi4KICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0ibG9nZ2VyIj50aGUgbG9nZ2VyPC9wYXJhbT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImlkIj50aGUgam9iJ3MgZGF0YWJhc2UgaWQ8L3BhcmFtPgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0iYmVhbnN0YWxrX2lkIj50aGUgam9iJ3MgYmVhbnN0YWxrIGlkPC9wYXJhbT4KICAgICAgICBwdWJsaWMgc3RhdGljIElEaXNwb3NhYmxlIEJlZ2luSm9iU2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgR3VpZCBpZCwgdWxvbmc/IGJlYW5zdGFsa19pZCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBsb2dnZXIuQmVnaW5TY29wZShuZXcgRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4oMikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgW1Nhc3N5LkxPR19QUk9QRVJUWV9CRUFOU1RBTEtfSURdID0gYmVhbnN0YWxrX2lkLAogICAgICAgICAgICAgICAgW1Nhc3N5LkxPR19QUk9QRVJUWV9KT0JfSURdID0gaWQsCiAgICAgICAgICAgIH0pOwogICAgICAgIH0KCiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyBCZWdpbiBhIGxvZ2dpbmcgc2NvcGUgYXNzb2NpYXRlZCB3aXRoIGEgcGFydGljdWxhciBqb2IuCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImxvZ2dlciI+dGhlIGxvZ2dlcjwvcGFyYW0+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJqb2IiPnRoZSBtZXRhZGF0YSBmb3IgdGhlIGFzc29jaWF0ZWQgam9iPC9wYXJhbT4KICAgICAgICBwdWJsaWMgc3RhdGljIElEaXNwb3NhYmxlIEJlZ2luSm9iU2NvcGUodGhpcyBJTG9nZ2VyIGxvZ2dlciwgSm9iTWV0YWRhdGEgam9iKQogICAgICAgICAgICA9PiBCZWdpbkpvYlNjb3BlKGxvZ2dlciwgam9iLklkLCBqb2IuQmVhbnN0YWxrSWQpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHRhYmxlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYXNzCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSU9NQ29tbW9uSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJT01Db21tb25JbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTT01hbkludGVyb3AiPgogICAgICA8SGludFBhdGg+Li5cU0FTT01hbkludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgogICAgPFJlZmVyZW5jZSBJbmNsdWRlPSJTQVNPTUlJbnRlcm9wIj4KICAgICAgPEhpbnRQYXRoPi4uXFNBU09NSUludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogYmFzZShiYXRjaFNpemVMaW1pdCwgcGVyaW9kKQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>DockerRun</text>
@@ -213,31 +220,31 @@
         <text encoding="base64">ICAgIDxSb290TmFtZXNwYWNlPlhPLlNhc3N5PC9Sb290TmFtZXNwYWNlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHRhYmxlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIFJldGhpbmtEYlNpbmsoaW50IGJhdGNoU2l6ZUxpbWl0LCBUaW1lU3BhbiBwZXJpb2QsIGludCBxdWV1ZUxpbWl0KSA6IGJhc2UoYmF0Y2hTaXplTGltaXQsIHBlcmlvZCwgcXVldWVMaW1pdCkKICAgICAgICB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocmVzdWx0LkFzc2VydE5vRXJyb3JzKAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHRhYmxlID0gImxvZyIsCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGRhdGFiYXNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGRhdGFiYXNlID0gbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhd2FpdCAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElGb3JtYXRQcm92aWRlciBtX2Zvcm1hdHRlcjsKICAgICAgICAKICAgICAgICBwdWJsaWMgUmV0aGlua0RiU2luayhJRm9ybWF0UHJvdmlkZXIgZm9ybWF0dGVyKQogICAgICAgIHsKICAgICAgICAgICAgbV9mb3JtYXR0ZXIgPSBmb3JtYXR0ZXI7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHB1YmxpYyB2b2lkIEVtaXQoTG9nRXZlbnQgbG9nRXZlbnQpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Iik7CiAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmluZDxJSm9iTWFuYWdlcj4oKS5UbzxKb2JNYW5hZ2VyPigpLkluU2luZ2xldG9uU2NvcGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBlbWl0YmRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgVGFzayBFbWl0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXRpbC5SZXRyeSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -277,6 +284,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
