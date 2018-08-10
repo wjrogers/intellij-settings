@@ -21,12 +21,12 @@
         <mark key="." line="6" column="60" />
         <mark key="^" line="6" column="60" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" timestamp="1533920489157">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="214" column="33" />
-        <mark key="]" line="214" column="93" />
-        <mark key="." line="214" column="93" />
-        <mark key="^" line="214" column="93" />
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" timestamp="1533930369255">
+        <mark key="'" line="165" column="20" />
+        <mark key="[" line="177" column="75" />
+        <mark key="]" line="177" column="76" />
+        <mark key="." line="177" column="76" />
+        <mark key="^" line="177" column="76" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Slack.cs" timestamp="1533743550698">
         <mark key="[" line="38" column="12" />
@@ -58,12 +58,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" timestamp="1533922134907">
-        <mark key="'" line="29" column="42" />
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="26" column="30" />
-        <mark key="." line="26" column="30" />
-        <mark key="^" line="26" column="30" />
+      <file name="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" timestamp="1533930452456">
+        <mark key="'" line="21" column="42" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Notifications/ParameterBase.cs" timestamp="1533743342824">
         <mark key="[" line="10" column="26" />
@@ -71,17 +70,21 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
+      <file name="C:/Work/XO.Core/XO.Logging/LoggingServiceCollectionExtensions.cs" timestamp="1533928072332">
+        <mark key="'" line="42" column="22" />
+      </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Jobs/SasWorkspaceParameters.cs" timestamp="1533671629104">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="7" column="40" />
         <mark key="." line="7" column="40" />
         <mark key="^" line="7" column="40" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbHostBuilderExtensions.cs" timestamp="1533927100591">
-        <mark key="[" line="10" column="67" />
-        <mark key="]" line="10" column="70" />
-        <mark key="^" line="10" column="70" />
-        <mark key="." line="10" column="70" />
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbHostBuilderExtensions.cs" timestamp="1533928248449">
+        <mark key="'" line="16" column="27" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="10" column="137" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Worker/Sas/SasLoggerExtensions.cs" timestamp="1533675599682">
         <mark key="[" line="39" column="21" />
@@ -159,16 +162,6 @@
         <mark key="^" line="35" column="26" />
         <mark key="." line="35" column="27" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Master/XO.Sassy.Master.csproj" timestamp="1533678289301">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="43" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Job.cs" timestamp="1533669248991">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/LoggerExtensions.cs" timestamp="1533677776403">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="53" />
@@ -187,10 +180,10 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
       </file>
-      <file name="C:/Work/XO.Core/XO.Logging/LoggingHostBuilderExtensions.cs" timestamp="1533921136578">
-        <mark key="'" line="31" column="33" />
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="27" />
+      <file name="C:/Work/XO.Core/XO.Logging/LoggingHostBuilderExtensions.cs" timestamp="1533928246062">
+        <mark key="'" line="31" column="27" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="43" />
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
       </file>
@@ -206,16 +199,6 @@
         <mark key="]" line="10" column="51" />
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
-      </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/XO.Sassy.Platform.csproj" timestamp="1533678285292">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Teardowns/SasToDatabaseParameters.cs" timestamp="1533672033574">
-        <mark key="[" line="2" column="43" />
-        <mark key="]" line="2" column="43" />
-        <mark key="." line="2" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -236,56 +219,64 @@
       <jump line="81" column="26" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" />
       <jump line="30" column="0" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" />
       <jump line="34" column="29" filename="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" />
-      <jump line="31" column="33" filename="C:/Work/XO.Core/XO.Logging/LoggingHostBuilderExtensions.cs" />
       <jump line="28" column="42" filename="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" />
       <jump line="20" column="60" filename="C:/Work/Sassy/XO.Sassy.Platform/Module.cs" />
       <jump line="12" column="72" filename="C:/Work/Sassy/XO.Sassy.Platform/Data/RethinkDbConsoleHostBuilderExtensions.cs" />
+      <jump line="11" column="36" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbHostBuilderExtensions.cs" />
+      <jump line="31" column="27" filename="C:/Work/XO.Core/XO.Logging/LoggingHostBuilderExtensions.cs" />
+      <jump line="42" column="22" filename="C:/Work/XO.Core/XO.Logging/LoggingServiceCollectionExtensions.cs" />
+      <jump line="19" column="44" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbHostBuilderExtensions.cs" />
+      <jump line="24" column="27" filename="C:/Work/XO.Core/XO.Logging/LoggingHostBuilderExtensions.cs" />
+      <jump line="16" column="27" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbHostBuilderExtensions.cs" />
+      <jump line="26" column="27" filename="C:/Work/XO.Core/XO.Logging/LoggingHostBuilderExtensions.cs" />
+      <jump line="41" column="21" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" />
+      <jump line="164" column="20" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZWxmTG9nLldyaXRlTGluZSgKICAgICAgICAgICAgICAgICAgICAgICAgIlVuZXhwZWN0ZWQgTG9nRXZlbnRQcm9wZXJ0eVZhbHVlIHR5cGUgezB9ISIsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPy5HZXRUeXBlKCkpOwogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIHVzaW5nICh2YXIgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU/LlJlbmRlcih3cml0ZXIpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gd3JpdGVyLlRvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VSZXRoaW5rRGIoKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSU9NQ29tbW9uSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJT01Db21tb25JbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTT01hbkludGVyb3AiPgogICAgICA8SGludFBhdGg+Li5cU0FTT01hbkludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgogICAgPFJlZmVyZW5jZSBJbmNsdWRlPSJTQVNPTUlJbnRlcm9wIj4KICAgICAgPEhpbnRQYXRoPi4uXFNBU09NSUludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0;</text>
+        <text encoding="base64">IGhhcyBiZWVuIGRpc3Bvc2VkIik7</text>
       </register>
       <register name="/" type="4">
         <text>DockerRun</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmluZDxSZXRoaW5rRGIuRHJpdmVyLk5ldC5JQ29ubmVjdGlvbj4oKQogICAgICAgICAgICAgICAgLlRvPFhPLlNhc3N5LkRhdGEuSW1wbGVtZW50YXRpb24uUmV0aGlua0RiQ29ubmVjdGlvblBvb2w+KCkKICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJldHVybnM+VGhlIGJ1aWxkZXIuPC9yZXR1cm5zPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VSZXRoaW5rRGIoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmV0aGlua0RiQ29ubmVjdGlvblBvb2wuQ3JlYXRlSW5zdGFuY2UoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8gbV9jb25uCiAgICAgICAgICAgICAgICA6IGF3YWl0IG1fY29ubi5SZWNvbm5lY3RBc3luYygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuVG88WE8uU2Fzc3kuRGF0YS5JbXBsZW1lbnRhdGlvbi5SZXRoaW5rRGJDb25uZWN0aW9uUG9vbD4oKQogICAgICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtX2Rpc3Bvc2VkID0gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtX2Nvbm4ubwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KChjb250ZXh0LCBsb2dnaW5nKSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfSk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLldyaXRlVG8uUmV0aGlua0RiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1fY29ubiBpcyBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAvLyBub3Qgc3VyZSBob3cgbXVjaCB3ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
