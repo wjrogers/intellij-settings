@@ -46,18 +46,17 @@
         <mark key="^" line="160" column="30" />
         <mark key="." line="160" column="30" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbLoggerConfigurationExtensions.cs" timestamp="1533921439210">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="11" column="11" />
-        <mark key="^" line="11" column="11" />
-        <mark key="." line="11" column="11" />
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbLoggerConfigurationExtensions.cs" timestamp="1533927032010">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="43" />
+        <mark key="^" line="4" column="43" />
+        <mark key="." line="4" column="43" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Data/RethinkDbConsoleHostBuilderExtensions.cs" timestamp="1533924728415">
-        <mark key="'" line="15" column="72" />
-        <mark key="[" line="10" column="68" />
-        <mark key="]" line="12" column="11" />
-        <mark key="." line="12" column="11" />
-        <mark key="^" line="12" column="11" />
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Data/RethinkDbConsoleHostBuilderExtensions.cs" timestamp="1533926978335">
+        <mark key="'" line="14" column="72" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" timestamp="1533922134907">
         <mark key="'" line="29" column="42" />
@@ -77,6 +76,12 @@
         <mark key="]" line="7" column="40" />
         <mark key="." line="7" column="40" />
         <mark key="^" line="7" column="40" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbHostBuilderExtensions.cs" timestamp="1533927100591">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="10" column="70" />
+        <mark key="^" line="10" column="70" />
+        <mark key="." line="10" column="70" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Worker/Sas/SasLoggerExtensions.cs" timestamp="1533675599682">
         <mark key="[" line="39" column="21" />
@@ -240,14 +245,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZWxmTG9nLldyaXRlTGluZSgKICAgICAgICAgICAgICAgICAgICAgICAgIlVuZXhwZWN0ZWQgTG9nRXZlbnRQcm9wZXJ0eVZhbHVlIHR5cGUgezB9ISIsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPy5HZXRUeXBlKCkpOwogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIHVzaW5nICh2YXIgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU/LlJlbmRlcih3cml0ZXIpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gd3JpdGVyLlRvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuVG88WE8uU2Fzc3kuRGF0YS5JbXBsZW1lbnRhdGlvbi5SZXRoaW5rRGJDb25uZWN0aW9uUG9vbD4oKQogICAgICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSU9NQ29tbW9uSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJT01Db21tb25JbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTT01hbkludGVyb3AiPgogICAgICA8SGludFBhdGg+Li5cU0FTT01hbkludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgogICAgPFJlZmVyZW5jZSBJbmNsdWRlPSJTQVNPTUlJbnRlcm9wIj4KICAgICAgPEhpbnRQYXRoPi4uXFNBU09NSUludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>0;</text>
       </register>
       <register name="/" type="4">
         <text>DockerRun</text>
@@ -256,31 +261,31 @@
         <text encoding="base64">ICAgICAgICAgICAgQmluZDxSZXRoaW5rRGIuRHJpdmVyLk5ldC5JQ29ubmVjdGlvbj4oKQogICAgICAgICAgICAgICAgLlRvPFhPLlNhc3N5LkRhdGEuSW1wbGVtZW50YXRpb24uUmV0aGlua0RiQ29ubmVjdGlvblBvb2w+KCkKICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuVG88WE8uU2Fzc3kuRGF0YS5JbXBsZW1lbnRhdGlvbi5SZXRoaW5rRGJDb25uZWN0aW9uUG9vbD4oKQogICAgICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmV0aGlua0RiQ29ubmVjdGlvblBvb2wuQ3JlYXRlSW5zdGFuY2UoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuVG88WE8uU2Fzc3kuRGF0YS5JbXBsZW1lbnRhdGlvbi5SZXRoaW5rRGJDb25uZWN0aW9uUG9vbD4oKQogICAgICAgICAgICAgICAgICAgIC5JblNpbmdsZXRvblNjb3BlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KChjb250ZXh0LCBsb2dnaW5nKSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfSk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLldyaXRlVG8uUmV0aGlua0RiCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">KChjb250ZXh0LCBsb2dnaW5nKSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfSk=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLldyaXRlVG8uUmV0aGlua0RiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChCdWZmZXJTdHJpbmcuVmFsdWUgaXMgbnVsbCkKICAgICAgICAgICAgICAgICAgICBCdWZmZXJTdHJpbmcuVmFsdWUgPSBuZXcgU3RyaW5nQnVpbGRlcigyNTYpOwogICAgICAgICAgICAgICAgdmFyIGJ1ZmZlciA9IEJ1ZmZlclN0cmluZy5WYWx1ZTsKCiAgICAgICAgICAgICAgICBidWZmZXIuQ2xlYXIoKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdXNpbmcgKHZhciB3cml0ZXIgPSBuZXcgU3RyaW5nV3JpdGVyKGJ1ZmZlcikpCiAgICAgICAgICAgICAgICAgICAgdmFsdWUuUmVuZGVyKHdyaXRlciwgbV9mb3JtYXRfc3RyaW5nKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
