@@ -21,12 +21,12 @@
         <mark key="." line="6" column="60" />
         <mark key="^" line="6" column="60" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" timestamp="1533919990316">
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" timestamp="1533920489157">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="195" column="72" />
-        <mark key="]" line="185" column="57" />
-        <mark key="." line="195" column="75" />
-        <mark key="^" line="185" column="57" />
+        <mark key="[" line="214" column="33" />
+        <mark key="]" line="214" column="93" />
+        <mark key="." line="214" column="93" />
+        <mark key="^" line="214" column="93" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Slack.cs" timestamp="1533743550698">
         <mark key="[" line="38" column="12" />
@@ -46,11 +46,11 @@
         <mark key="^" line="160" column="30" />
         <mark key="." line="160" column="30" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" timestamp="1533676375880">
-        <mark key="[" line="106" column="57" />
-        <mark key="]" line="107" column="19" />
-        <mark key="." line="107" column="19" />
-        <mark key="^" line="107" column="19" />
+      <file name="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" timestamp="1533920686868">
+        <mark key="[" line="34" column="51" />
+        <mark key="]" line="36" column="44" />
+        <mark key="." line="36" column="44" />
+        <mark key="^" line="36" column="44" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Notifications/ParameterBase.cs" timestamp="1533743342824">
         <mark key="[" line="10" column="26" />
@@ -214,13 +214,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZWxmTG9nLldyaXRlTGluZSgKICAgICAgICAgICAgICAgICAgICAgICAgIlVuZXhwZWN0ZWQgTG9nRXZlbnRQcm9wZXJ0eVZhbHVlIHR5cGUgezB9ISIsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPy5HZXRUeXBlKCkpOwogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIHVzaW5nICh2YXIgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU/LlJlbmRlcih3cml0ZXIpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gd3JpdGVyLlRvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>protected</text>
+        <text>(buffer.ToString());</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSU9NQ29tbW9uSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJT01Db21tb25JbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTT01hbkludGVyb3AiPgogICAgICA8SGludFBhdGg+Li5cU0FTT01hbkludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgogICAgPFJlZmVyZW5jZSBJbmNsdWRlPSJTQVNPTUlJbnRlcm9wIj4KICAgICAgPEhpbnRQYXRoPi4uXFNBU09NSUludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>(buffer.ToString());</text>
       </register>
       <register name="/" type="4">
         <text>DockerRun</text>
@@ -229,28 +229,28 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBBc3luY0xvY2FsPExpc3Q8Sk9iamVjdD4+IEJ1ZmZlcgogICAgICAgICAgICA9IG5ldyBBc3luY0xvY2FsPExpc3Q8Sk9iamVjdD4+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IEpWYWx1ZSh3cml0ZXIudG9zdAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChCdWZmZXJTdHJpbmcuVmFsdWUgaXMgbnVsbCkKICAgICAgICAgICAgICAgICAgICBCdWZmZXJTdHJpbmcuVmFsdWUgPSBuZXcgU3RyaW5nQnVpbGRlcigyNTYpOwogICAgICAgICAgICAgICAgdmFyIGJ1ZmZlciA9IEJ1ZmZlclN0cmluZy5WYWx1ZTsKCiAgICAgICAgICAgICAgICBidWZmZXIuQ2xlYXIoKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdXNpbmcgKHZhciB3cml0ZXIgPSBuZXcgU3RyaW5nV3JpdGVyKGJ1ZmZlcikpCiAgICAgICAgICAgICAgICAgICAgdmFsdWUuUmVuZGVyKHdyaXRlciwgbV9mb3JtYXRfc3RyaW5nKTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IEpWYWx1ZSh3cml0ZXIudG9zdAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBiYXNlLlZpc2l0VW5zdXBwb3J0ZWRWYWx1ZShzdGF0ZSwgdmFsdWUpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICByZQogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUubgo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUubgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
