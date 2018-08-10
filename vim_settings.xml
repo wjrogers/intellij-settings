@@ -21,12 +21,12 @@
         <mark key="." line="6" column="60" />
         <mark key="^" line="6" column="60" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" timestamp="1533908646745">
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" timestamp="1533909008002">
         <mark key="'" line="49" column="20" />
-        <mark key="[" line="68" column="24" />
-        <mark key="]" line="69" column="39" />
-        <mark key="^" line="69" column="39" />
-        <mark key="." line="69" column="39" />
+        <mark key="[" line="70" column="42" />
+        <mark key="]" line="71" column="19" />
+        <mark key="^" line="71" column="19" />
+        <mark key="." line="71" column="19" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Notifications/Notifications/Slack.cs" timestamp="1533743550698">
         <mark key="[" line="38" column="12" />
