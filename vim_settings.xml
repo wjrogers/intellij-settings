@@ -46,11 +46,18 @@
         <mark key="^" line="160" column="30" />
         <mark key="." line="160" column="30" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" timestamp="1533920686868">
-        <mark key="[" line="34" column="51" />
-        <mark key="]" line="36" column="44" />
-        <mark key="." line="36" column="44" />
-        <mark key="^" line="36" column="44" />
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbLoggerConfigurationExtensions.cs" timestamp="1533921439210">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+      </file>
+      <file name="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" timestamp="1533922134907">
+        <mark key="'" line="29" column="42" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+        <mark key="^" line="26" column="30" />
       </file>
       <file name="C:/Work/Sassy/XO.Sassy.Platform/Notifications/ParameterBase.cs" timestamp="1533743342824">
         <mark key="[" line="10" column="26" />
@@ -94,7 +101,8 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="C:/Work/Sassy/XO.Sassy.Platform/Module.cs" timestamp="1533678325372">
+      <file name="C:/Work/Sassy/XO.Sassy.Platform/Module.cs" timestamp="1533921043586">
+        <mark key="'" line="20" column="60" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -167,6 +175,13 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
       </file>
+      <file name="C:/Work/XO.Core/XO.Logging/LoggingHostBuilderExtensions.cs" timestamp="1533921136578">
+        <mark key="'" line="31" column="33" />
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="27" />
+        <mark key="^" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+      </file>
       <file name="C:/Work/XO.Core/XO.Logging/LogSystem.cs" timestamp="1533851043609">
         <mark key="'" line="48" column="51" />
         <mark key="[" line="87" column="60" />
@@ -208,13 +223,17 @@
       <jump line="50" column="61" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" />
       <jump line="81" column="26" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" />
       <jump line="30" column="0" filename="C:/Work/Sassy/XO.Sassy.Platform/Logging/RethinkDbSink.cs" />
+      <jump line="34" column="29" filename="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" />
+      <jump line="31" column="33" filename="C:/Work/XO.Core/XO.Logging/LoggingHostBuilderExtensions.cs" />
+      <jump line="28" column="42" filename="C:/Work/Sassy/XO.Sassy.Worker/Program.cs" />
+      <jump line="20" column="60" filename="C:/Work/Sassy/XO.Sassy.Platform/Module.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZWxmTG9nLldyaXRlTGluZSgKICAgICAgICAgICAgICAgICAgICAgICAgIlVuZXhwZWN0ZWQgTG9nRXZlbnRQcm9wZXJ0eVZhbHVlIHR5cGUgezB9ISIsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPy5HZXRUeXBlKCkpOwogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIHVzaW5nICh2YXIgd3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU/LlJlbmRlcih3cml0ZXIpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gd3JpdGVyLlRvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(buffer.ToString());</text>
+        <text encoding="base64">KChjb250ZXh0LCBsb2dnaW5nKSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfSk=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTSU9NQ29tbW9uSW50ZXJvcCI+CiAgICAgIDxIaW50UGF0aD4uLlxTQVNJT01Db21tb25JbnRlcm9wLmRsbDwvSGludFBhdGg+CiAgICA8L1JlZmVyZW5jZT4KICAgIDxSZWZlcmVuY2UgSW5jbHVkZT0iU0FTT01hbkludGVyb3AiPgogICAgICA8SGludFBhdGg+Li5cU0FTT01hbkludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgogICAgPFJlZmVyZW5jZSBJbmNsdWRlPSJTQVNPTUlJbnRlcm9wIj4KICAgICAgPEhpbnRQYXRoPi4uXFNBU09NSUludGVyb3AuZGxsPC9IaW50UGF0aD4KICAgIDwvUmVmZXJlbmNlPgo=</text>
@@ -228,35 +247,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBBc3luY0xvY2FsPExpc3Q8Sk9iamVjdD4+IEJ1ZmZlcgogICAgICAgICAgICA9IG5ldyBBc3luY0xvY2FsPExpc3Q8Sk9iamVjdD4+KCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChCdWZmZXJTdHJpbmcuVmFsdWUgaXMgbnVsbCkKICAgICAgICAgICAgICAgICAgICBCdWZmZXJTdHJpbmcuVmFsdWUgPSBuZXcgU3RyaW5nQnVpbGRlcigyNTYpOwogICAgICAgICAgICAgICAgdmFyIGJ1ZmZlciA9IEJ1ZmZlclN0cmluZy5WYWx1ZTsKCiAgICAgICAgICAgICAgICBidWZmZXIuQ2xlYXIoKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdXNpbmcgKHZhciB3cml0ZXIgPSBuZXcgU3RyaW5nV3JpdGVyKGJ1ZmZlcikpCiAgICAgICAgICAgICAgICAgICAgdmFsdWUuUmVuZGVyKHdyaXRlciwgbV9mb3JtYXRfc3RyaW5nKTsKCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">KChjb250ZXh0LCBsb2dnaW5nKSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfSk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IEpWYWx1ZSh3cml0ZXIudG9zdAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnaW5nLldyaXRlVG8uUmV0aGlua0RiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChCdWZmZXJTdHJpbmcuVmFsdWUgaXMgbnVsbCkKICAgICAgICAgICAgICAgICAgICBCdWZmZXJTdHJpbmcuVmFsdWUgPSBuZXcgU3RyaW5nQnVpbGRlcigyNTYpOwogICAgICAgICAgICAgICAgdmFyIGJ1ZmZlciA9IEJ1ZmZlclN0cmluZy5WYWx1ZTsKCiAgICAgICAgICAgICAgICBidWZmZXIuQ2xlYXIoKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdXNpbmcgKHZhciB3cml0ZXIgPSBuZXcgU3RyaW5nV3JpdGVyKGJ1ZmZlcikpCiAgICAgICAgICAgICAgICAgICAgdmFsdWUuUmVuZGVyKHdyaXRlciwgbV9mb3JtYXRfc3RyaW5nKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBiYXNlLlZpc2l0VW5zdXBwb3J0ZWRWYWx1ZShzdGF0ZSwgdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IEpWYWx1ZSh3cml0ZXIudG9zdAogICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICByZQogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUubgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -272,8 +291,8 @@
         <entry>DockerRun</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
