@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoClass" />
+  <action id="GotoTable">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+</keymap>
