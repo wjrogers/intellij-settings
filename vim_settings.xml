@@ -85,7 +85,7 @@
       <file name="/ercot_dam_ptp_obligation_bids [ENDR@db-endr-stt]" timestamp="1534353491088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/endr.dbo.market_bid_submit_versions [SQL Server (Microsoft) - ENDR@db-endr-stt.endr.local]" timestamp="1535918106264">
+      <file name="/endr.dbo.market_bid_submit_versions [SQL Server (Microsoft) - ENDR@db-endr-stt.endr.local]" timestamp="1535919005357">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/market_bids [SQL Server (Microsoft) - ENDR_DEV@stt-devdb-001]" timestamp="1527013514196">
@@ -133,7 +133,7 @@
       <file name="/user_markets [SQL Server (Microsoft) - ENDR_DEV@stt-devdb-001]" timestamp="1525965542168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535918121844">
+      <file name="/dummy.sql" timestamp="1535919011032">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="415" />
