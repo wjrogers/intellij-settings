@@ -21,12 +21,12 @@
       <file name="/endr.dbo.application_usage [ENDR@db-endr-stt]" timestamp="1535558811466">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" timestamp="1535920337271">
-        <mark key="'" line="0" column="48" />
-        <mark key="[" line="47" column="62" />
-        <mark key="]" line="48" column="21" />
-        <mark key="^" line="48" column="21" />
-        <mark key="." line="48" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" timestamp="1535921738923">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="79" column="38" />
+        <mark key="^" line="78" column="164" />
+        <mark key="." line="78" column="164" />
       </file>
       <file name="/pjm_nodes [ENDR@db-endr-stt]" timestamp="1523908709516">
         <mark key="[" line="0" column="0" />
@@ -133,7 +133,10 @@
       <file name="/user_markets [SQL Server (Microsoft) - ENDR_DEV@stt-devdb-001]" timestamp="1525965542168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535919011032">
+      <file name="/endr.dbo.market_curve_strategy [SQL Server (Microsoft) - ENDR@db-endr-stt.endr.local]" timestamp="1535921313974">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1535921314166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="415" />
@@ -247,49 +250,52 @@
       <jump line="9" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a17d3e1c-3ac4-4bb0-bae7-69b4ad0a5e95/console.sql" />
       <jump line="1" column="143" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" />
       <jump line="0" column="48" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" />
+      <jump line="31" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" />
+      <jump line="78" column="164" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" />
+      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">c2VsZWN0CiAgKgpmcm9tCiAgbWFya2V0X2JpZHMgYgpqb2luIG1hcmtldF9jdXJ2ZXMgYyBPTiBjLmJpZF9pZCA9IGIuaWQKam9pbiBtYXJrZXRfY3VydmVfdmVyc2lvbnMgdiBPTiB2LmN1cnZlX2lkID0gYy5pZApsZWZ0IGpvaW4gbWFya2V0X2JpZF9zdWJtaXRfdmVyc2lvbnMgc3YgT04gc3YudmVyc2lvbl9pZCA9IHYuaWQKbGVmdCBqb2luIG1hcmtldF9iaWRfc3VibWl0cyBzIE9OIHMuaWQgPSBzdi5zdWJtaXRfaWQKd2hlcmUKICBiLmlkID0gMzI1NDIyNAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ON s.id = sv.submit_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VMRUNUIGIubWFya2V0X2RheSwKICAgICAgIGIuaWQgQVMgYmlkX2lkLAogICAgICAgYy5pZCBBUyBjdXJ2ZV9pZCwKICAgICAgIHBfaWQudmFsdWUgQVMgdHNjaGVkdWxlLAogICAgICAgYy5jdXJyZW50X3ZlcnNpb25faWQsCiAgICAgICBjLmN1cnJlbnRfdmVyc2lvbl9pZF9yZXN1bHRfdmFsaWQsCiAgICAgICB2LmlkIEFTIHZlcnNpb25faWQsCiAgICAgICB2LnN0cmF0ZWd5X2lkLAogICAgICAgdi5zYXZlZF9ieSwKICAgICAgIHYucmVzdWx0LAogICAgICAgdi5yZXN1bHRfdmFsaWQsCiAgICAgICB1LmZ1bGxfbmFtZSBBUyBbdXNlcl0KRlJPTSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVzIGMKSk9JTiBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfdmVyc2lvbnMgdiBPTiB2LmN1cnZlX2lkID0gYy5pZApKT0lOIFtkYi1lbmRyLXN0dC5lbmRyLmxvY2FsXS5bRU5EUl0uZGJvLm1hcmtldF9iaWRzIGIgT04gYi5pZCA9IGMuYmlkX2lkCkpPSU4gW2RiLWVuZHItc3R0LmVuZHIubG9jYWxdLltFTkRSXS5kYm8ubWFya2V0X2N1cnZlX3Byb3BlcnRpZXMgcF90eXBlCiAgICBPTiBwX3R5cGUudmVyc2lvbl9pZCA9IHYuaWQgQU5EIHBfdHlwZS5ba2V5XSA9ICdjdXJ2ZV90eXBlJwpMRUZUIEpPSU4gW2RiLWVuZHItc3R0LmVuZHIubG9jYWxdLltFTkRSXS5kYm8ubWFya2V0X2N1cnZlX3Byb3BlcnRpZXMgcF9pZAogICAgT04gcF9pZC52ZXJzaW9uX2lkID0gdi5pZCBBTkQgcF9pZC5ba2V5XSA9ICdJRCcKTEVGVCBKT0lOIFtkYi1lbmRyLXN0dC5lbmRyLmxvY2FsXS5bRU5EUl0uZGJvLnVzZXJzIHUgT04gdS5pZCA9IHYuc2F2ZWRfYnkKV0hFUkUgYi5yZWdpb24gPSAnUEpNVXB0bycgQU5EIHBfdHlwZS52YWx1ZSA9ICdFRVMnIEFORCBjLmlkIElOIChTRUxFQ1QgY3VydmVfaWQgRlJPTSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfdmVyc2lvbnMgV0hFUkUgc3RyYXRlZ3lfaWQgPSA0KQpPUkRFUiBCWSBiLm1hcmtldF9kYXksIGIuaWQsIGMuaWQsIHYuaWQK</text>
       </register>
       <register name="-" type="4">
-        <text>ON s.id = sv.submit_id</text>
+        <text>.market_curve_properties p_id</text>
       </register>
       <register name="/" type="4">
         <text>region</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfYmlkX3N1Ym1pdF92ZXJzaW9ucyBzdgpKT0lOIFtkYi1lbmRyLXN0dC5lbmRyLmxvY2FsXS5bRU5EUl0uZGJvLm1hcmtldF9iaWRfc3VibWl0cyBzIE9OIHMuaWQgPSBzdi5zdWJtaXRfaWQK</text>
+        <text encoding="base64">TEVGVCBKT0lOIFtkYi1lbmRyLXN0dC5lbmRyLmxvY2FsXS5bRU5EUl0uZGJvLm1hcmtldF9jdXJ2ZV9wcm9wZXJ0aWVzIHBfaWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfYmlkX3N1Ym1pdF92ZXJzaW9ucyBzdgo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V0hFUkUgc291cmNlLltUcmFuc2FjdGlvbiBJRF0gPSAnVDM1MTk3NycK</text>
+        <text encoding="base64">TEVGVCBKT0lOCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Sk9JTiBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVzIGMgT04gYy5iaWRfaWQgPSBiLmlkCkpPSU4gW2RiLWVuZHItc3R0LmVuZHIubG9jYWxdLltFTkRSXS5kYm8ubWFya2V0X2N1cnZlX3ZlcnNpb25zIHYgT04gdi5pZCA9IGMuY3VycmVudF92ZXJzaW9uX2lkX3Jlc3VsdF92YWxpZApKT0lOIFtkYi1lbmRyLXN0dC5lbmRyLmxvY2FsXS5bRU5EUl0uZGJvLm1hcmtldF9jdXJ2ZV9wcm9wZXJ0aWVzIHBfaWQgT04gcF9pZC52ZXJzaW9uX2lkID0gdi5pZCAgQU5EIHBfaWQuW2tleV0gPSAnSUQnIEFORCBwX2lkLnZhbHVlID0gc291cmNlLltUcmFuc2FjdGlvbiBJRF0KSk9JTiBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby51c2VycyB1IE9OIHUuaWQgPSB2LnNhdmVkX2J5Cg==</text>
+        <text encoding="base64">ICAgICAgIHYuY3VydmVfaWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiLmNyZWF0ZWRfYnksCiAgdi4qLAogIHBfaWQudmFsdWUgQVMgdHNjaGVkdWxlLAogIHUubmFtZQo=</text>
+        <text encoding="base64">Sk9JTiBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfcHJvcGVydGllcyBwX3R5cGUKICAgIE9OIHBfdHlwZS52ZXJzaW9uX2lkID0gdi5pZCBBTkQgcF90eXBlLltrZXldID0gJ2N1cnZlX3R5cGUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RlJPTSBDb2FsdHJhaW4uZGJvLmVlc190cmFuc2FjdGlvbnNfYW5kX29hc2lzIHNvdXJjZQo=</text>
+        <text encoding="base64">RlJPTSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfdmVyc2lvbnMgdgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZS5bVHJhbnNhY3Rpb24gSURdLAo=</text>
+        <text encoding="base64">ZnJvbSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfYmlkX3N1Ym1pdF92ZXJzaW9ucyBzdgogICAgICAgSk9JTiBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfYmlkX3N1Ym1pdHMgcyBPTiBzLmlkID0gc3Yuc3VibWl0X2lkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHNvdXJjZS5bRVBUIEhvdXIgRW5kaW5nXSwK</text>
+        <text encoding="base64">ZnJvbSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfYmlkX3N1Ym1pdF92ZXJzaW9ucyBzdgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
