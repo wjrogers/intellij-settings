@@ -71,6 +71,9 @@
       <file name="/endr.dbo.user_error_log [ENDR@db-endr-stt]" timestamp="1535558910185">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/endr.dbo.users [SQL Server (Microsoft) - ENDR@db-endr-stt.endr.local]" timestamp="1535906991547">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/ercot_dam_ptp_obligation_bid_awards [ENDR@db-endr-stt]" timestamp="1534353491056">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,7 +131,7 @@
       <file name="/user_markets [SQL Server (Microsoft) - ENDR_DEV@stt-devdb-001]" timestamp="1525965542168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535903058539">
+      <file name="/dummy.sql" timestamp="1535906991743">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="415" />
