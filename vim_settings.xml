@@ -9,6 +9,9 @@
       <file name="/quant_trades [ENDR@db-endr-stt]" timestamp="1534780266716">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1535915498562">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/ftr_auctions2 [ENDR@db-endr-stt]" timestamp="1534780266668">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,7 +134,7 @@
       <file name="/user_markets [SQL Server (Microsoft) - ENDR_DEV@stt-devdb-001]" timestamp="1525965542168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535911464498">
+      <file name="/dummy.sql" timestamp="1535915474678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="415" />
