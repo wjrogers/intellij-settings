@@ -18,10 +18,10 @@
       <file name="/endr.dbo.application_usage [ENDR@db-endr-stt]" timestamp="1535558811466">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" timestamp="1535664368032">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" timestamp="1535902716725">
         <mark key="'" line="0" column="48" />
-        <mark key="[" line="29" column="6" />
-        <mark key="]" line="29" column="6" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="26" column="5" />
         <mark key="^" line="34" column="126" />
         <mark key="." line="29" column="6" />
       </file>
@@ -122,10 +122,13 @@
       <file name="/endr.dbo.pjm_constraints_hourly [ENDR@db-endr-stt]" timestamp="1534780297293">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/endr.dbo.market_bids [SQL Server (Microsoft) - ENDR@db-endr-stt.endr.local]" timestamp="1535903058231">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/user_markets [SQL Server (Microsoft) - ENDR_DEV@stt-devdb-001]" timestamp="1525965542168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535748082483">
+      <file name="/dummy.sql" timestamp="1535903058539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="415" />
@@ -244,8 +247,8 @@
       <register name="a" type="2">
         <text encoding="base64">c2VsZWN0CiAgKgpmcm9tCiAgbWFya2V0X2JpZHMgYgpqb2luIG1hcmtldF9jdXJ2ZXMgYyBPTiBjLmJpZF9pZCA9IGIuaWQKam9pbiBtYXJrZXRfY3VydmVfdmVyc2lvbnMgdiBPTiB2LmN1cnZlX2lkID0gYy5pZApsZWZ0IGpvaW4gbWFya2V0X2JpZF9zdWJtaXRfdmVyc2lvbnMgc3YgT04gc3YudmVyc2lvbl9pZCA9IHYuaWQKbGVmdCBqb2luIG1hcmtldF9iaWRfc3VibWl0cyBzIE9OIHMuaWQgPSBzdi5zdWJtaXRfaWQKd2hlcmUKICBiLmlkID0gMzI1NDIyNAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFRPUCA1MA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">V0lUSCBjdXJ2ZXMgQVMgKAogICAgIFNFTEVDVCBiLm1hcmtldF9kYXksCiAgICAgICAgICAgIGIuYm9va19pZCwKICAgICAgICAgICAgYi5jcmVhdGVkX2J5LAogICAgICAgICAgICB2LiosCiAgICAgICAgICAgIHBfaWQudmFsdWUgQVMgdHNjaGVkdWxlLAogICAgICAgICAgICB1Lm5hbWUKICAgICBGUk9NIFtkYi1lbmRyLXN0dC5lbmRyLmxvY2FsXS5bRU5EUl0uZGJvLm1hcmtldF9iaWRzIGIKICAgICAgICAgICAgSk9JTiBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVzIGMgT04gYy5iaWRfaWQgPSBiLmlkCiAgICAgICAgICAgIEpPSU4gW2RiLWVuZHItc3R0LmVuZHIubG9jYWxdLltFTkRSXS5kYm8ubWFya2V0X2N1cnZlX3ZlcnNpb25zIHYKICAgICAgICAgICAgICBPTiB2LmlkID0gYy5jdXJyZW50X3ZlcnNpb25faWRfcmVzdWx0X3ZhbGlkCiAgICAgICAgICAgIEpPSU4gW2RiLWVuZHItc3R0LmVuZHIubG9jYWxdLltFTkRSXS5kYm8ubWFya2V0X2N1cnZlX3Byb3BlcnRpZXMgcF9pZAogICAgICAgICAgICAgIE9OIHBfaWQudmVyc2lvbl9pZCA9IHYuaWQgQU5EIHBfaWQuW2tleV0gPSAnSUQnCiAgICAgICAgICAgIEpPSU4gW2RiLWVuZHItc3R0LmVuZHIubG9jYWxdLltFTkRSXS5kYm8udXNlcnMgdSBPTiB1LmlkID0gdi5zYXZlZF9ieQogICAgIFdIRVJFIGIucmVnaW9uID0gJ1BqbVVQVE8nCiAgICAgKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IFRPUCA1MA==</text>
