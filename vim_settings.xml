@@ -21,12 +21,12 @@
       <file name="/endr.dbo.application_usage [ENDR@db-endr-stt]" timestamp="1535558811466">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" timestamp="1535916482464">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" timestamp="1535918249271">
         <mark key="'" line="0" column="48" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="72" />
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="47" />
         <mark key="^" line="29" column="55" />
-        <mark key="." line="29" column="55" />
+        <mark key="." line="31" column="47" />
       </file>
       <file name="/pjm_nodes [ENDR@db-endr-stt]" timestamp="1523908709516">
         <mark key="[" line="0" column="0" />
@@ -58,13 +58,6 @@
       <file name="/pjm_ftr_market_periods [ENDR@db-endr-stt]" timestamp="1534780266645">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/094ee2d8-7413-48c1-bd75-2bc22f100c95/console.sql" timestamp="1534960259247">
-        <mark key="'" line="68" column="47" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="134" column="22" />
-        <mark key="^" line="134" column="22" />
-        <mark key="." line="134" column="22" />
-      </file>
       <file name="/pnl_charges [ENDR@db-endr-stt]" timestamp="1534353491101">
         <mark key="[" line="0" column="0" />
       </file>
@@ -80,6 +73,9 @@
       <file name="/ercot_dam_ptp_obligation_bid_awards [ENDR@db-endr-stt]" timestamp="1534353491056">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/endr.dbo.market_bid_submits [SQL Server (Microsoft) - ENDR@db-endr-stt.endr.local]" timestamp="1535918121518">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/ercot_wind_model_units [SQL Server (Microsoft) - ENDR_DEV@stt-devdb-001]" timestamp="1532098566970">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,6 +83,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ercot_dam_ptp_obligation_bids [ENDR@db-endr-stt]" timestamp="1534353491088">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/endr.dbo.market_bid_submit_versions [SQL Server (Microsoft) - ENDR@db-endr-stt.endr.local]" timestamp="1535918106264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/market_bids [SQL Server (Microsoft) - ENDR_DEV@stt-devdb-001]" timestamp="1527013514196">
@@ -134,7 +133,7 @@
       <file name="/user_markets [SQL Server (Microsoft) - ENDR_DEV@stt-devdb-001]" timestamp="1525965542168">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1535915474678">
+      <file name="/dummy.sql" timestamp="1535918121844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="415" />
@@ -253,11 +252,11 @@
       <register name="a" type="2">
         <text encoding="base64">c2VsZWN0CiAgKgpmcm9tCiAgbWFya2V0X2JpZHMgYgpqb2luIG1hcmtldF9jdXJ2ZXMgYyBPTiBjLmJpZF9pZCA9IGIuaWQKam9pbiBtYXJrZXRfY3VydmVfdmVyc2lvbnMgdiBPTiB2LmN1cnZlX2lkID0gYy5pZApsZWZ0IGpvaW4gbWFya2V0X2JpZF9zdWJtaXRfdmVyc2lvbnMgc3YgT04gc3YudmVyc2lvbl9pZCA9IHYuaWQKbGVmdCBqb2luIG1hcmtldF9iaWRfc3VibWl0cyBzIE9OIHMuaWQgPSBzdi5zdWJtaXRfaWQKd2hlcmUKICBiLmlkID0gMzI1NDIyNAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSk9JTiBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfcHJvcGVydGllcyBwX3R5cGUKICAgICAgICAgICAgICBPTiBwX3R5cGUudmVyc2lvbl9pZCA9IHYuaWQgQU5EIHBfdHlwZS5ba2V5XSA9ICdjdXJ2ZV90eXBlJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ID</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>region</text>
