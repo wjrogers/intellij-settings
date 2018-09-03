@@ -21,12 +21,9 @@
       <file name="/endr.dbo.application_usage [ENDR@db-endr-stt]" timestamp="1535558811466">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" timestamp="1535984085496">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ef079343-a094-4614-827d-0d9b2f79adfe/console.sql" timestamp="1535986775292">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="44" column="80" />
+        <mark key="^" line="92" column="0" />
       </file>
       <file name="/pjm_nodes [ENDR@db-endr-stt]" timestamp="1523908709516">
         <mark key="[" line="0" column="0" />
@@ -142,11 +139,11 @@
         <mark key="." line="0" column="415" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a17d3e1c-3ac4-4bb0-bae7-69b4ad0a5e95/console.sql" timestamp="1535748043056">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a17d3e1c-3ac4-4bb0-bae7-69b4ad0a5e95/console.sql" timestamp="1535986795208">
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+        <mark key="." line="36" column="25" />
       </file>
       <file name="/quant_trades [Quant@db-quant-stt]" timestamp="1534780266702">
         <mark key="[" line="0" column="0" />
@@ -258,44 +255,44 @@
       <register name="a" type="2">
         <text encoding="base64">c2VsZWN0CiAgKgpmcm9tCiAgbWFya2V0X2JpZHMgYgpqb2luIG1hcmtldF9jdXJ2ZXMgYyBPTiBjLmJpZF9pZCA9IGIuaWQKam9pbiBtYXJrZXRfY3VydmVfdmVyc2lvbnMgdiBPTiB2LmN1cnZlX2lkID0gYy5pZApsZWZ0IGpvaW4gbWFya2V0X2JpZF9zdWJtaXRfdmVyc2lvbnMgc3YgT04gc3YudmVyc2lvbl9pZCA9IHYuaWQKbGVmdCBqb2luIG1hcmtldF9iaWRfc3VibWl0cyBzIE9OIHMuaWQgPSBzdi5zdWJtaXRfaWQKd2hlcmUKICBiLmlkID0gMzI1NDIyNAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfcHJvcGVydGllcyB3aGVyZSB2ZXJzaW9uX2lkID0gMzA3NDU3Cg==</text>
+      <register name="&quot;" type="4">
+        <text>@market_region</text>
       </register>
       <register name="-" type="4">
-        <text>321930</text>
+        <text>@market_region</text>
       </register>
       <register name="/" type="4">
         <text>region</text>
       </register>
-      <register name="0" type="4">
-        <text>305543</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfdmVyc2lvbnMgd2hlcmUgY3VydmVfaWQgPSAxNDk4NDMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfcHJvcGVydGllcyB3aGVyZSB2ZXJzaW9uX2lkID0gMzA3NDU3Cg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBtYXJrZXRfY3VydmVfdmVyc2lvbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfdmVyc2lvbnMgd2hlcmUgaWQgPSAzMjE5MzAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfcHJvcGVydGllcyB3aGVyZSB2ZXJzaW9uX2lkID0gMzA3NDU3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfdmVyc2lvbnMgd2hlcmUgaWQgPSAzMjE5MzAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TEVGVCBKT0lOCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHYuY3VydmVfaWQK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Sk9JTiBbZGItZW5kci1zdHQuZW5kci5sb2NhbF0uW0VORFJdLmRiby5tYXJrZXRfY3VydmVfcHJvcGVydGllcyBwX3R5cGUKICAgIE9OIHBfdHlwZS52ZXJzaW9uX2lkID0gdi5pZCBBTkQgcF90eXBlLltrZXldID0gJ2N1cnZlX3R5cGUnCg==</text>
+        <text encoding="base64">TEVGVCBKT0lOCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
