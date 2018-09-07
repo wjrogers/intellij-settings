@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/market_curve_versions [ENDR@db-endr-stt]" timestamp="1527015844214">
@@ -13,6 +13,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ftr_auctions2 [ENDR@db-endr-stt]" timestamp="1534780266668">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/jobs [Collector@db-collector-stt]" timestamp="1536335404508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/endr.dbo.pjm_ees_interfaces [SQL Server (Microsoft) - ENDR@db-endr-stt.endr.local]" timestamp="1535748052875">
@@ -46,6 +49,12 @@
       <file name="/endr.dbo.pjm_upto_emkt_nodes [SQL Server (Microsoft) - ENDR@db-endr-stt.endr.local]" timestamp="1535748082258">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/ca_settlement_statements [ENDR@db-endr-stt]" timestamp="1536335404619">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/user_error_log [ENDR@db-endr-stt]" timestamp="1536335404636">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/pjm_ftr_market_info [ENDR@db-endr-stt]" timestamp="1534780266619">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,6 +66,12 @@
       </file>
       <file name="/pnl_charges [ENDR@db-endr-stt]" timestamp="1534353491101">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/094ee2d8-7413-48c1-bd75-2bc22f100c95/console.sql" timestamp="1536335452036">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="86" />
+        <mark key="^" line="136" column="86" />
+        <mark key="." line="136" column="86" />
       </file>
       <file name="/pjm_ftr_market_results_raw [ENDR@db-endr-stt]" timestamp="1527014350485">
         <mark key="[" line="0" column="0" />
@@ -91,7 +106,7 @@
       <file name="/pjm_ftr_nodes_raw [ENDR@db-endr-stt]" timestamp="1534780266085">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ny_tcc_markets [ENDR@db-endr-stt]" timestamp="1523908709397">
+      <file name="/ny_tcc_markets [ENDR@db-endr-stt]" timestamp="1536335404603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/endr.dbo.user_query_log [ENDR@db-endr-stt]" timestamp="1535558662144">

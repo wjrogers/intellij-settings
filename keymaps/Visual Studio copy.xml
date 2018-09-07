@@ -1,4 +1,4 @@
-<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+<keymap version="1" name="Visual Studio copy">
   <action id="ChangesView.GroupBy.Directory" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Print" />
